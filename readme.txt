@@ -8,7 +8,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The front-end common library provided by this plug-in, acceleration service of font object library is 35% faster than that of front-end common library, font object library CDN provided by 360 website guard.
+本插件提供的Google公共库,字体库的加速服务远比360网站卫士提供的前端公共库,字体库CDN加速服务快35%
 == Description ==
 The front-end common library provided by this plug-in, acceleration service of font object library is 35% faster than that of front-end common library, font object library CDN provided by 360 website guard.
 
