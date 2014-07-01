@@ -1,7 +1,7 @@
 === Google Fonts acceleration===
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
-Tags: Google,CDN,Font,Common Library,Font Object Library,谷歌字体加速,谷歌公共库加速
+Tags: Google,CDN,Font,Common Library,Font Object Library
 Requires at least:1.0
 Tested up to: 1.0
 Stable tag: 1.1
@@ -50,7 +50,7 @@ Please confirm whether turn on the plug-in.
 === Google字体加速===
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
-Tags:谷歌,CDN,字体,公共库,字体库,谷歌字体加速,谷歌公共库加速
+Tags:谷歌,CDN,字体,公共库,字体库
 Requires at least:1.0
 Tested up to: 1.0
 Stable tag: 1.1
@@ -91,4 +91,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * 精简代码,支持包括插件在内的全站Google公共库/字体库替换。
 
 == 升级通知 ==
-* 此版本精简代码,支持包括插件在内的全站Google公共库/字体库替换。
+
+= 1.1=
+* 该版本精简了代码,支持包括插件在内的全站Google公共库/字体库替换。
