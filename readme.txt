@@ -2,9 +2,9 @@
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
 Tags: Google,CDN,Font,Common Library,Font Object Library
-Requires at least:1.0
-Tested up to: 1.0
-Stable tag: 1.1
+Requires at least:1.1
+Tested up to: 1.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,12 +37,12 @@ Please confirm whether turn on the plug-in.
 
 == Changelog ==
 
-= 1.1 =
+= 1.2 =
 * Streamline the code, support all replacement of Google common library or font object library, including the plug-in.
 
 == Upgrade Notice ==
 
-= 1.1=
+= 1.2=
 * This version streamlines code, support all replacement of Google common library or font object library, including the plug-in.
 
 
@@ -63,10 +63,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 为什么我们比360更快？
 360每次都会向Google请求公共库资源,相当于代理访问google.
-（流程：你网站→360代理访问→Google公共库）
+（流程：网站请求→360代理访问→Google公共库）
 
 我们直接把Google公共库扒下来放在CDN集群里,无需每次都向google请求公共库.
-（流程：你网站→Google公共库）
+（流程：网站请求→Google公共库）
 
  Google公共库更新了怎么办？
 我们每三天自动更新一次Google公共库和字体库资源。
@@ -87,10 +87,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ==更新日志==
 
-= 1.1 =
+= 1.2 =
 * 精简代码,支持包括插件在内的全站Google公共库/字体库替换。
 
 == 升级通知 ==
 
-= 1.1=
+= 1.2=
 * 该版本精简了代码,支持包括插件在内的全站Google公共库/字体库替换。
