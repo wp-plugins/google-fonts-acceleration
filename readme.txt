@@ -4,7 +4,7 @@ Donate link: http://www.fulihost.com/
 Tags: Google,CDN,Font,Common Library,Font Object Library
 Requires at least:1.1
 Tested up to: 1.2
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,12 +37,12 @@ Please confirm whether turn on the plug-in.
 
 == Changelog ==
 
-= 1.2 =
+= 1.3 =
 * Streamline the code, support all replacement of Google common library or font object library, including the plug-in.
 
 == Upgrade Notice ==
 
-= 1.2=
+= 1.3=
 * This version streamlines code, support all replacement of Google common library or font object library, including the plug-in.
 
 
@@ -51,9 +51,9 @@ Please confirm whether turn on the plug-in.
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
 Tags:谷歌,CDN,字体,公共库,字体库
-Requires at least:1.0
-Tested up to: 1.0
-Stable tag: 1.1
+Requires at least:1.1
+Tested up to: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -87,10 +87,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ==更新日志==
 
-= 1.2 =
+= 1.3 =
 * 精简代码,支持包括插件在内的全站Google公共库/字体库替换。
 
 == 升级通知 ==
 
-= 1.2=
+= 1.3=
 * 该版本精简了代码,支持包括插件在内的全站Google公共库/字体库替换。
