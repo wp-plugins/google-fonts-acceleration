@@ -1,59 +1,10 @@
-=== Google Fonts acceleration===
-Contributors:cqdaidong
-Donate link: http://www.fulihost.com/
-Tags: Google,CDN,Font,Common Library,Font Object Library
-Requires at least:1.1
-Tested up to: 1.2
-Stable tag: 1.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-The front-end common library provided by this plug-in, acceleration service of font object library is 35% faster than that of front-end common library, font object library CDN provided by 360 website guard.
-== Description ==
-The front-end common library provided by this plug-in, acceleration service of font object library is 35% faster than that of front-end common library, font object library CDN provided by 360 website guard.
-
-Why are we faster than 360?
-Every time, 360 will ask Google for resources of common library, equivalent to access Google by an agent.
-(Procedure: Website, 360 agent access, Google common library)
-
-We directly take Google common library apart and put it in CDN cluster. There is no need to ask Google for common library every time.
-(Procedure: your website, Google common library) 
-
- What shall people do in case of update of Google common library?
-We automatically update the resources of Google common library and font object library every three days.
-
-Acknowledgement: Dream Sky CDN beta project
-
-== Installation ==
-1. Upload the plugin to / wp-content/plugins / directory
-2. Enable it in the plugins list
-
-== Frequently Asked Questions ==
-= Fail to accelerate?=
-Please confirm whether turn on the plug-in.
-
-== Screenshots ==
- 1. Nothing
-
-== Changelog ==
-
-= 1.3 =
-* Streamline the code, support all replacement of Google common library or font object library, including the plug-in.
-
-== Upgrade Notice ==
-
-= 1.3=
-* This version streamlines code, support all replacement of Google common library or font object library, including the plug-in.
-
-
-
 === Google字体加速===
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
 Tags:谷歌,CDN,字体,公共库,字体库
 Requires at least:1.1
-Tested up to: 1.2
-Stable tag: 1.3
+Tested up to: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -87,10 +38,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ==更新日志==
 
-= 1.3 =
+= 1.4 =
 * 精简代码,支持包括插件在内的全站Google公共库/字体库替换。
 
 == 升级通知 ==
 
-= 1.3=
-* 该版本精简了代码,支持包括插件在内的全站Google公共库/字体库替换。
+= 1.4=
+* 修复了1.3版本登陆界面和后台字体没有替换的问题，更换前端库地址。
