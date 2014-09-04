@@ -1,16 +1,16 @@
 === Google字体加速===
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
-Tags:谷歌,CDN,字体,公共库,字体库
+Tags:Google,CDN,字体,公共库,字体库
 Requires at least:1.1
-Tested up to: 1.3
+Tested up to: 1.4
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-本插件提供的Google公共库,字体库的加速服务远比360网站卫士提供的前端公共库,字体库CDN加速服务快35%
+本插件将自动把您网站所有Google公共库和字体库链接替换为梦想天空CDN提供的前端公共库&字体库链接。（本插件主要适用中国大陆等Google被封锁国家）如果需要替换为360公共库的请到我博客下载360公共库版本！
 == 描述==
-本插件提供的前端公共库,字体库的加速服务远比360网站卫士提供的前端公共库,字体库CDN加速服务快35%。
+本插件将自动把您网站所有Google公共库和字体库链接替换为梦想天空CDN提供的前端公共库&字体库链接。（本插件主要适用中国大陆等Google被封锁国家）如果需要替换为360公共库的请到我博客下载360公共库版本！
 
 为什么我们比360更快？
 360每次都会向Google请求公共库资源,相当于代理访问google.
