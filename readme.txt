@@ -1,47 +1,48 @@
-=== Google×ÖÌå¼ÓËÙ===
+ï»¿=== Googleå­—ä½“åŠ é€Ÿ===
 Contributors:cqdaidong
 Donate link: http://www.fulihost.com/
-Tags:Google,CDN,×ÖÌå,¹«¹²¿â,×ÖÌå¿â
-Requires at least:1.1
-Tested up to: 1.4
-Stable tag: 1.4
+Tags:Google,CDN,å­—ä½“,å…¬å…±åº“,å­—ä½“åº“
+Requires at least:1.0
+Tested up to: 1.5
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-±¾²å¼þ½«×Ô¶¯°ÑÄúÍøÕ¾ËùÓÐGoogle¹«¹²¿âºÍ×ÖÌå¿âÁ´½ÓÌæ»»ÎªÃÎÏëÌì¿ÕCDNÌá¹©µÄÇ°¶Ë¹«¹²¿â&×ÖÌå¿âÁ´½Ó¡££¨±¾²å¼þÖ÷ÒªÊÊÓÃÖÐ¹ú´óÂ½µÈGoogle±»·âËø¹ú¼Ò£©Èç¹ûÐèÒªÌæ»»Îª360¹«¹²¿âµÄÇëµ½ÎÒ²©¿ÍÏÂÔØ360¹«¹²¿â°æ±¾£¡
-== ÃèÊö==
-±¾²å¼þ½«×Ô¶¯°ÑÄúÍøÕ¾ËùÓÐGoogle¹«¹²¿âºÍ×ÖÌå¿âÁ´½ÓÌæ»»ÎªÃÎÏëÌì¿ÕCDNÌá¹©µÄÇ°¶Ë¹«¹²¿â&×ÖÌå¿âÁ´½Ó¡££¨±¾²å¼þÖ÷ÒªÊÊÓÃÖÐ¹ú´óÂ½µÈGoogle±»·âËø¹ú¼Ò£©Èç¹ûÐèÒªÌæ»»Îª360¹«¹²¿âµÄÇëµ½ÎÒ²©¿ÍÏÂÔØ360¹«¹²¿â°æ±¾£¡
+æœ¬æ’ä»¶å°†è‡ªåŠ¨æŠŠæ‚¨ç½‘ç«™æ‰€æœ‰Googleå…¬å…±åº“å’Œå­—ä½“åº“é“¾æŽ¥æ›¿æ¢ä¸ºæ¢¦æƒ³å¤©ç©ºCDNæä¾›çš„å‰ç«¯å…¬å…±åº“&å­—ä½“åº“é“¾æŽ¥ã€‚ï¼ˆæœ¬æ’ä»¶ä¸»è¦é€‚ç”¨ä¸­å›½å¤§é™†ç­‰Googleè¢«å°é”å›½å®¶ï¼‰å¦‚æžœéœ€è¦æ›¿æ¢ä¸º360å…¬å…±åº“çš„è¯·åˆ°æˆ‘åšå®¢ä¸‹è½½360å…¬å…±åº“ç‰ˆæœ¬ï¼
+== Description ==
+æœ¬æ’ä»¶å°†è‡ªåŠ¨æŠŠæ‚¨ç½‘ç«™æ‰€æœ‰Googleå…¬å…±åº“å’Œå­—ä½“åº“é“¾æŽ¥æ›¿æ¢ä¸ºæ¢¦æƒ³å¤©ç©ºCDNæä¾›çš„å‰ç«¯å…¬å…±åº“&å­—ä½“åº“é“¾æŽ¥ã€‚ï¼ˆæœ¬æ’ä»¶ä¸»è¦é€‚ç”¨ä¸­å›½å¤§é™†ç­‰Googleè¢«å°é”å›½å®¶ï¼‰å¦‚æžœéœ€è¦æ›¿æ¢ä¸º360å…¬å…±åº“çš„è¯·åˆ°æˆ‘åšå®¢ä¸‹è½½360å…¬å…±åº“ç‰ˆæœ¬ï¼
 
-ÎªÊ²Ã´ÎÒÃÇ±È360¸ü¿ì£¿
-360Ã¿´Î¶¼»áÏòGoogleÇëÇó¹«¹²¿â×ÊÔ´,Ïàµ±ÓÚ´úÀí·ÃÎÊgoogle.
-£¨Á÷³Ì£ºÍøÕ¾ÇëÇó¡ú360´úÀí·ÃÎÊ¡úGoogle¹«¹²¿â£©
+ä¸ºä»€ä¹ˆæˆ‘ä»¬æ¯”360æ›´å¿«ï¼Ÿ
+360æ¯æ¬¡éƒ½ä¼šå‘Googleè¯·æ±‚å…¬å…±åº“èµ„æº,ç›¸å½“äºŽä»£ç†è®¿é—®google.
+ï¼ˆæµç¨‹ï¼šç½‘ç«™è¯·æ±‚â†’360ä»£ç†è®¿é—®â†’Googleå…¬å…±åº“ï¼‰
 
-ÎÒÃÇÖ±½Ó°ÑGoogle¹«¹²¿â°ÇÏÂÀ´·ÅÔÚCDN¼¯ÈºÀï,ÎÞÐèÃ¿´Î¶¼ÏògoogleÇëÇó¹«¹²¿â.
-£¨Á÷³Ì£ºÍøÕ¾ÇëÇó¡úGoogle¹«¹²¿â£©
+æˆ‘ä»¬ç›´æŽ¥æŠŠGoogleå…¬å…±åº“æ‰’ä¸‹æ¥æ”¾åœ¨CDNé›†ç¾¤é‡Œ,æ— éœ€æ¯æ¬¡éƒ½å‘googleè¯·æ±‚å…¬å…±åº“.
+ï¼ˆæµç¨‹ï¼šç½‘ç«™è¯·æ±‚â†’Googleå…¬å…±åº“ï¼‰
 
- Google¹«¹²¿â¸üÐÂÁËÔõÃ´°ì£¿
-ÎÒÃÇÃ¿ÈýÌì×Ô¶¯¸üÐÂÒ»´ÎGoogle¹«¹²¿âºÍ×ÖÌå¿â×ÊÔ´¡£
+ Googleå…¬å…±åº“æ›´æ–°äº†æ€Žä¹ˆåŠžï¼Ÿ
+æˆ‘ä»¬æ¯ä¸‰å¤©è‡ªåŠ¨æ›´æ–°ä¸€æ¬¡Googleå…¬å…±åº“å’Œå­—ä½“åº“èµ„æºã€‚
 
-ÃùÐ»:ÃÎÏëÌì¿ÕCDN¹«²âÏîÄ¿
+é¸£è°¢:æ¢¦æƒ³å¤©ç©ºCDNå…¬æµ‹é¡¹ç›®
 
-== °²×°==
+== Installation ==
 
-ÉÏ´«²å¼þµ½/wp-content/plugins/Ä¿Â¼
-ÔÚ²å¼þÁÐ±íÖÐÆôÓÃËü
+ä¸Šä¼ æ’ä»¶åˆ°/wp-content/plugins/ç›®å½•
+åœ¨æ’ä»¶åˆ—è¡¨ä¸­å¯ç”¨å®ƒ
 
-==³£¼ûÎÊÌâ==
-=¼ÓËÙÊ§°Ü£¿=
-ÇëÈ·ÈÏÊÇ·ñ¿ªÆô±¾²å¼þ¡£
+== Frequently Asked Questions ==
 
-==½ØÍ¼==
-Ã»ÓÐ
+=åŠ é€Ÿå¤±è´¥ï¼Ÿ=
+è¯·ç¡®è®¤æ˜¯å¦å¼€å¯æœ¬æ’ä»¶ã€‚
 
-==¸üÐÂÈÕÖ¾==
+== Screenshots ==
+æ²¡æœ‰
 
-= 1.4 =
-* ¾«¼ò´úÂë,Ö§³Ö°üÀ¨²å¼þÔÚÄÚµÄÈ«Õ¾Google¹«¹²¿â/×ÖÌå¿âÌæ»»¡£
+== Changelog ==
 
-== Éý¼¶Í¨Öª ==
+= 1.5 =
+* ç²¾ç®€ä»£ç ,æ”¯æŒåŒ…æ‹¬æ’ä»¶åœ¨å†…çš„å…¨ç«™Googleå…¬å…±åº“/å­—ä½“åº“æ›¿æ¢ã€‚
 
-= 1.4=
-* ÐÞ¸´ÁË1.3°æ±¾µÇÂ½½çÃæºÍºóÌ¨×ÖÌåÃ»ÓÐÌæ»»µÄÎÊÌâ£¬¸ü»»Ç°¶Ë¿âµØÖ·¡£
+== Upgrade Notice ==
+
+= 1.5=
+* æ›´æ¢äº†å…¨æ–°çš„å‰ç«¯åº“åœ°å€ã€‚
