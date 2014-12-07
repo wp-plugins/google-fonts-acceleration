@@ -26,7 +26,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 上传插件到/wp-content/plugins/目录
 在插件列表中启用它
 
-。
+
 
 == Frequently Asked Questions ==
 
