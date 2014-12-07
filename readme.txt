@@ -18,7 +18,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-本插件可针对中国大陆地区访客较多的网站（或面对其他网络封锁地区访客较多的网站）调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速。（暂不支持SSL调用）
+本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速。（暂不支持SSL调用）
 
 
 
