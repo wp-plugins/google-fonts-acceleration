@@ -14,13 +14,11 @@ Stable tag: 1.6
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
-本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速。（暂不支持SSL调用）
+本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速。
 
 == Description ==
 
-本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速。（暂不支持SSL调用）
-
-
+本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速,但遗憾的是目前暂时不支持SSL,请期待我们更新。
 
 == Installation ==
 
@@ -28,7 +26,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 上传插件到/wp-content/plugins/目录
 在插件列表中启用它
 
-，安装插件可在
+。
 
 == Frequently Asked Questions ==
 
