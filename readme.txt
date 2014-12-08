@@ -10,7 +10,7 @@ Requires at least:1.0
 
 Tested up to: 1.6
 Stable tag: 1.6
-6License: GPLv2 or later
+License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
