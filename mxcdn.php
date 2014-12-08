@@ -10,7 +10,8 @@
 
 /*Google公共库加速*/
 function igeeklab_cdn_callback($buffer) {
-	return str_replace('googleapis.com', 'ifdream.net', $buffer);
+	$buffer = str_replace(array( "googleapis.com"), "ifdream.net", $buffer);
+        return $buffer;
 }
 function igeeklab_buffer_start() {
 	ob_start("igeeklab_cdn_callback");
@@ -22,10 +23,17 @@ add_action('init', 'igeeklab_buffer_start');
 add_action('shutdown', 'igeeklab_buffer_end');
 
 /*gravatar头像加速*/
-function igeekLab_get_cdn_avatar($avatar) {
+function igeekLab_cdn_avatar($avatar) {
 	$avatar = str_replace(array( "0.gravatar.com", "1.gravatar.com",), "gravatar0.ifdream.net", $avatar);
 	$avatar = str_replace(array("www.gravatar.com", "2.gravatar.com","secure.gravatar.com"), "gravatar1.ifdream.net", $avatar);
 	return $avatar;
 }
-add_filter('get_avatar', 'igeekLab_get_cdn_avatar');
+function igeeklab_avatar_start() {
+	ob_start("igeeklab_cdn_avatar");
+}
+function igeeklab_avatar_end() {
+	ob_end_flush();
+}
+add_action('init', 'igeeklab_avatar_start');
+add_action('shutdown', 'igeeklab_avatar_end');
 ?>
