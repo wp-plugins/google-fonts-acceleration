@@ -39,7 +39,8 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
-=
+
+
 【1.6 】由于众所周知的原因，我们在维护Google公共库加速的同时，新增了对Gravatar头像的加速。您无需再安装多个插件以及繁琐的修改主题文件，本插件占用极小,对WordPress性能影响可忽略不计。
 
 
