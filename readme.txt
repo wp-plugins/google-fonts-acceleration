@@ -50,9 +50,11 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 == Upgrade Notice ==
 
 = 
-1.6 =
+1.6 
+=
 * 在优化谷歌公共库加速的同时,新增对Gravatar头像的加速!
 
 
-1.7 =
+1.7 
+=
 * 更换了我们的全新加速源地址,并且支持SSL加密调用加速源，解决之前不支持SSL调用，使得Https访问网站提示风险的问题。（之前的加速源依然有效，但不支持SSL）
