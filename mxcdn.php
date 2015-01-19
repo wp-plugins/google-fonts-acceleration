@@ -2,7 +2,7 @@
 /*
 	Plugin Name:谷歌字体与Gravatar头像加速
 	Plugin URI: http://www.iGeekLab.com
-	Description:本插件可针对面对中国大陆地区用户的网站调用的Google公共库服务和Gravatar头像服务进行替换加速,此次更新更换了我们的全新加速源地址，且支持SSL加密调用加速源。（本插件由iGeekLab.com开发维护,加速服务器端由梦想互联 屌鸡 提供技术支持）
+	Description:本插件可针对面对中国大陆地区用户的网站调用的Google前端库服务以及字体库服务和Gravatar头像服务进行替换加速,此次更新更换了我们的全新加速源地址，且支持SSL加密调用加速源。（本插件由iGeekLab开发维护,加速服务器端由梦想互联 屌鸡 提供技术支持）
 	Version: 1.7
 	Author: cqdaidong
 	Author URI: http://www.iGeekLab.com

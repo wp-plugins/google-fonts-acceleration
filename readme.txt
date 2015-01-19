@@ -14,11 +14,11 @@ License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
-本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源。
+本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源。
 
 == Description ==
 
-本插件可针对中国大陆地区访客较多的网站调用的Google公共库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源。
+本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源。
 
 == Installation ==
 
