@@ -8,13 +8,13 @@ Tags:Google,CDN,加速,字体,Gravatar,公共库,字体库
 
 Requires at least:1.0
 
-Tested up to: 4.1.1
-Stable tag: 4.1.1
+Tested up to: 4.2.2
+Stable tag: 4.2.2
 License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
-本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源。
+本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源，本插件支持以后的所有Wordpress版本更新，无论您使用的什么版本Wordpress都可以使用本插件，所以请无视“未在您的WordPress版本中测试”提示。
 
 == Description ==
 
