@@ -8,8 +8,8 @@ Tags:Google,CDN,加速,字体,Gravatar,公共库,字体库
 
 Requires at least:1.0
 
-Tested up to: 4.2.2
-Stable tag: 4.2.2
+Tested up to: 4.2.3
+Stable tag: 4.2.3
 License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
